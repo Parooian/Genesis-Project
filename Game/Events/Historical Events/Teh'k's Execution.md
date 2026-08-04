@@ -1,1 +1,0 @@
-[[Teh'k]], after his capture by [[Dojaw Kindgom]] and before his execution he shared existance of [[The Trove|Trove]] and thus great treasure hunt started

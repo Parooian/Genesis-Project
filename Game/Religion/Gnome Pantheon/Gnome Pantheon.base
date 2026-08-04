@@ -1,6 +1,0 @@
-filters:
-  and:
-    - file.inFolder("Religion/Gnome Pantheon")
-views:
-  - type: table
-    name: Table

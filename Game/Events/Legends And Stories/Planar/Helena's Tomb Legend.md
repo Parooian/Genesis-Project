@@ -1,3 +1,0 @@
-After [[Saintness Helena|Hellen's]] Death she was buried in a tomb hidden from everyone, the only people that knew apparently were her [[Forvaras Party|Party]], and it is said that she was buried with her biggest treasure.
-
-Many legendary Parties tried to find it and many claimed to succeed, yet all of them said they found them in different locations and could not find Saints Hellen's body or the grave itself.

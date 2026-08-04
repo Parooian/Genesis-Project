@@ -1,7 +1,0 @@
-filters:
-  and:
-    - file.inFolder("Religion/Asgardian Pantheon")
-    - '!file.hasTag("Folder")'
-views:
-  - type: table
-    name: Table

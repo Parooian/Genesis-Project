@@ -1,1 +1,0 @@
-[[Nameless King]] returned from the Abyss to conquer the Plane of Dantar with his undead army in his undying greed. 

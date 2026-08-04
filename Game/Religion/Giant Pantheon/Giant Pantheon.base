@@ -1,6 +1,0 @@
-filters:
-  and:
-    - file.inFolder("Religion/Giant Pantheon")
-views:
-  - type: table
-    name: Table
