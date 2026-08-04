@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "kind": "event-index-year",
+  "calendarId": "dantar-time",
+  "year": 1005,
+  "days": {
+    "6-4": {
+      "items": [
+        {
+          "id": "teh-k--zykz2vof",
+          "title": "Teh'k's Execution",
+          "color": "#02aed9"
+        }
+      ]
+    }
+  }
+}

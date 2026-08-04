@@ -1,0 +1,1 @@
+[[Age of Old]] ended mysteriously and unexpectedly. Today almost nobody knows what happened. It could be war, it could be a cataclysm, or even a god having a bad day. Nobody knows

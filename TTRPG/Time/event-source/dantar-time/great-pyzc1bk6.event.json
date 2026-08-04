@@ -1,0 +1,25 @@
+{
+  "id": "great--pyzc1bk6",
+  "calendarId": "dantar-time",
+  "title": "Great Fall",
+  "date": {
+    "year": -1,
+    "monthIndex": 12,
+    "day": 10
+  },
+  "endDate": {
+    "year": 0,
+    "monthIndex": 0,
+    "day": 1
+  },
+  "color": "#4e3e3e",
+  "tagRefs": [
+    "dantar-timeline-eras:age-of-ashes",
+    "dantar-timeline-eras:age-of-old"
+  ],
+  "weatherPackId": "general",
+  "imageRef": "Great Fall.jpg",
+  "noteRef": "Game/Events/Legends And Stories/Planar/Great Fall Tale.md",
+  "createdAt": "2026-06-30T14:05:55.681Z",
+  "updatedAt": "2026-08-03T21:25:40.637Z"
+}

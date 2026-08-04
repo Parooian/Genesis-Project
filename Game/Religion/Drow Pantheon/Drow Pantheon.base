@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.inFolder("Religion/Drow Pantheon")
+views:
+  - type: table
+    name: Table

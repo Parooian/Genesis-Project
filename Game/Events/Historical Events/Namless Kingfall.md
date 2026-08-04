@@ -1,0 +1,1 @@
+The only and final battle between [[Nameless King]] and [[Forvaras Party]] for the sake on Dantar's Future. Which lead to final death of the [[Nameless King]] and [[Saintness Helena]]

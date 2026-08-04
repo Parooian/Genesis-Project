@@ -1,0 +1,2 @@
+Legendary Party that saved the continent from already advancing [[Nameless King|Lich King]] with his army. They achieved victory singlehandedly, at a great loss of one of their members [[Saintness Helena]]. 
+After this they Decided that no threat should remain undetected for so long and therefore they made [[Adventure Guild]] to both develop new heroes of the Real and Prevent any future Evils to spread unknown.

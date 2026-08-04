@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"298e4ef2ae4ed725","x":-75,"y":-235,"width":400,"height":400,"type":"file","file":"Genesis Project Repo/Game/Characters/Legendary And Historical Characters/Forvaras Party.md"},
+		{"id":"32d6246ad09fea5a","x":-840,"y":-220,"width":400,"height":400,"type":"file","file":"Genesis Project Repo/Game/Characters/Legendary And Historical Characters/Nameless King.md"},
+		{"id":"99a57aaf08ce9fb7","x":720,"y":40,"width":400,"height":400,"type":"file","file":"Genesis Project Repo/Game/Characters/Legendary And Historical Characters/Saintness Helena.md"}
+	],
+	"edges":[
+		{"id":"f75db10887cdea20","fromNode":"298e4ef2ae4ed725","fromSide":"left","toNode":"32d6246ad09fea5a","toSide":"right"},
+		{"id":"8f05d210d2f93c2c","fromNode":"298e4ef2ae4ed725","fromSide":"right","toNode":"99a57aaf08ce9fb7","toSide":"left","fromEnd":"arrow"}
+	]
+}

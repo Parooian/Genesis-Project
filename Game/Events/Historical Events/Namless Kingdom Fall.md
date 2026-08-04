@@ -1,0 +1,1 @@
+Fall of a [[Nmless Kingdom|Kingdom]] whose name was struck from history because of actions of it's [[Nameless King|Monarch]] whose name was struck as well.

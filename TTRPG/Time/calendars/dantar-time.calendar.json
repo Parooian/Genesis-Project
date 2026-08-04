@@ -1,0 +1,266 @@
+{
+  "version": 1,
+  "kind": "calendar",
+  "id": "dantar-time",
+  "name": "New Age Calendar",
+  "definition": {
+    "id": "dantar-time",
+    "name": "New Age Calendar",
+    "eraLabel": "BGF",
+    "weekdays": [
+      "RAU",
+      "ZAR",
+      "VEL",
+      "KRA",
+      "LUM",
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "months": [
+      {
+        "id": "month-1",
+        "name": "Month 1",
+        "days": 30
+      },
+      {
+        "id": "month-2",
+        "name": "Month 2",
+        "days": 30
+      },
+      {
+        "id": "month-3",
+        "name": "Month 3",
+        "days": 30
+      },
+      {
+        "id": "month-4",
+        "name": "Month 4",
+        "days": 30
+      },
+      {
+        "id": "month-5",
+        "name": "Month 5",
+        "days": 30
+      },
+      {
+        "id": "month-6",
+        "name": "Month 6",
+        "days": 30
+      },
+      {
+        "id": "month-7",
+        "name": "Month 7",
+        "days": 30
+      },
+      {
+        "id": "month-8",
+        "name": "Month 8",
+        "days": 30
+      },
+      {
+        "id": "month-9",
+        "name": "Month 9",
+        "days": 30
+      },
+      {
+        "id": "month-10",
+        "name": "Month 10",
+        "days": 30
+      },
+      {
+        "id": "month-11",
+        "name": "Month 11",
+        "days": 30
+      },
+      {
+        "id": "month-12",
+        "name": "Month 12",
+        "days": 30
+      },
+      {
+        "id": "month-13",
+        "name": "Month 13",
+        "days": 30
+      }
+    ],
+    "leapMonths": [],
+    "leapDays": [],
+    "weatherProfile": {
+      "mode": "calendar",
+      "climateYearLength": 360,
+      "baseOffsetDays": 0,
+      "cycleReset": "intercalation-cycle"
+    },
+    "eras": [
+      {
+        "id": "era",
+        "name": "Genesis Era",
+        "shortName": "BGF",
+        "startYear": -1e+77,
+        "startMonthIndex": 0,
+        "startDay": 1
+      },
+      {
+        "id": "bgf",
+        "name": "Primodial Era",
+        "shortName": "BGF",
+        "startYear": -435185,
+        "startMonthIndex": 0,
+        "startDay": 1
+      },
+      {
+        "id": "bgf",
+        "name": "Age of OLD",
+        "shortName": "BGF",
+        "startYear": -9856,
+        "startMonthIndex": 0,
+        "startDay": 1
+      },
+      {
+        "id": "agf",
+        "name": "Age of Ashes",
+        "shortName": "AGF",
+        "startYear": 0,
+        "startMonthIndex": 7,
+        "startDay": 30
+      },
+      {
+        "id": "agf",
+        "name": "Current Era",
+        "shortName": "AGF",
+        "startYear": 221,
+        "startMonthIndex": 7,
+        "startDay": 30
+      }
+    ],
+    "moons": [
+      {
+        "id": "selune",
+        "name": "Selûne",
+        "cycleDays": 30,
+        "offsetDays": 0,
+        "cycleAnchor": "month",
+        "color": "#ffffff",
+        "phaseCount": 8,
+        "size": 28,
+        "phaseImages": [],
+        "phaseLabels": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "id": "sharindlar",
+        "name": "Sharindlar",
+        "cycleDays": 35,
+        "offsetDays": 7,
+        "cycleAnchor": "absolute",
+        "color": "#b5afc5",
+        "phaseCount": 8,
+        "size": 21,
+        "phaseImages": [],
+        "phaseLabels": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "id": "artemis",
+        "name": "Artemis",
+        "cycleDays": 71,
+        "offsetDays": 13,
+        "cycleAnchor": "absolute",
+        "color": "#a1cde8",
+        "phaseCount": 8,
+        "size": 12,
+        "phaseImages": [],
+        "phaseLabels": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ],
+    "yearNames": [],
+    "startWeekdayIndex": 0,
+    "seasons": [
+      {
+        "id": "spring",
+        "name": "Spring",
+        "startDay": 1,
+        "endDay": 97,
+        "color": "#a7d36d"
+      },
+      {
+        "id": "summer",
+        "name": "Summer",
+        "startDay": 98,
+        "endDay": 195,
+        "color": "#e2b35d"
+      },
+      {
+        "id": "autumn",
+        "name": "Autumn",
+        "startDay": 196,
+        "endDay": 292,
+        "color": "#d98859"
+      },
+      {
+        "id": "winter",
+        "name": "Winter",
+        "startDay": 293,
+        "endDay": 390,
+        "color": "#7fa8d8"
+      }
+    ],
+    "time": {
+      "enabled": false,
+      "hoursPerDay": 24,
+      "minutesPerHour": 60
+    }
+  },
+  "state": {
+    "activeView": "week",
+    "todayDate": {
+      "year": 1146,
+      "monthIndex": 1,
+      "day": 6
+    },
+    "cursorDate": {
+      "year": 0,
+      "monthIndex": 1,
+      "day": 6
+    }
+  },
+  "linkedTagPackIds": [
+    "dantar-timeline-eras",
+    "timelineeventtype"
+  ],
+  "linkedWeatherPackIds": [
+    "isles"
+  ],
+  "defaultWeatherPackId": "isles",
+  "autoGenerateLinkedWeatherReferences": false,
+  "markers": [],
+  "description": "Standard Calendar For Plane Of Dantar"
+}
