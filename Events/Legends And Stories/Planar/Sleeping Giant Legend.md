@@ -1,0 +1,1 @@
+There is a legend, a story, a rumor about a Last giant remaining in the lands of Dantar after [[Genesis Project Repo/Events/Legends And Stories/Planar/Great Fall Tale]]. They say he slumbers, heavly, waiting to being awoken, somwhere in [[Dvergafjöll Mountain Range]] 

@@ -1,0 +1,3 @@
+A turbulent Times following the fall of civilizations, correspondence with gods become scarce, mages felt their connection to wave whither and they had to connect anew, many failed, non managed to escape Old age second time. Dragons left or died out. Giants died or slumbered. Everything changed and nothing was safe, unrest was ever-present, hope was scarce, and good fortune seemed to disappear, that was till one of biggest challenges emerged. [[Nameless King]] Returned and he was bested after years by [[Forvaras Party]].
+
+And thus began [[Genesis Project Repo/Eras/New Age]]
