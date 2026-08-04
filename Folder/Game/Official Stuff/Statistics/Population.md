@@ -1,0 +1,1 @@
+In fantasy world i had to calculate average density that could be realistic and amount of people per km squared on landmass and its 132

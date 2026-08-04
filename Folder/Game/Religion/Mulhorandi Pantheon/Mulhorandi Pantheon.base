@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.inFolder("Religion/Mulhorandi Pantheon")
+views:
+  - type: table
+    name: Table

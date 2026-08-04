@@ -1,0 +1,1 @@
+Legendary Thief  Teh'k was [[Teh'k's Execution|Executed]] after he was caught at last, not by a glorious knight, but by old age, which made him slip up. He was rumored to amass Treasure so vast it rivalled Empires of Old.
