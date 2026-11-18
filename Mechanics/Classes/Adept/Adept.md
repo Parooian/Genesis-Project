@@ -1,0 +1,1 @@
+First Advancement, in most classes will be unlocked with their first specialization and instead of it being a subclass we will change class name to specialization and make some perks related to that. Some like cleric that unlock specialization at level 1 will not have it.

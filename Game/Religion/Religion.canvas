@@ -13,5 +13,9 @@
 		{"id":"d292e836bd2be4c0","x":-180,"y":1200,"width":400,"height":400,"type":"file","file":"Genesis Project Repo/Game/Religion/Elven Pantheon/Elven Pantheon.base"},
 		{"id":"7567c6661e7773d6","x":240,"y":1200,"width":400,"height":400,"type":"file","file":"Genesis Project Repo/Game/Religion/Faerun Pantheon/Faerun Pantheon.base"}
 	],
-	"edges":[]
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

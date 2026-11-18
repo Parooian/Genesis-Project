@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"6269f8de426e9fa1",
+			"type":"text",
+			"text":"When Specialization is taken you retain your previous classes perks and abilities and unless stated otherwise as specialization perks, PC will get leveling perks from parent classes\n",
+			"styleAttributes":{},
+			"x":-240,
+			"y":-340,
+			"width":260,
+			"height":220
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

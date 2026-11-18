@@ -1,0 +1,1 @@
+Starting Classes, the basics of the basics they will also be foundation of other classes. Concept will be basic like Wizard, Sorcerer, Ranger, Rouge etc. all the basic 13 ones from dnd and maybe some more.
