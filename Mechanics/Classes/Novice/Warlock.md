@@ -1,0 +1,1 @@
+Warclock has spellslots like classically but will have increased amount of spell slots compared to non homebrew.

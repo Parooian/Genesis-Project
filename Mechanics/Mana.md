@@ -23,4 +23,6 @@ And mana Cost is as follows
 
 Some Classes will have this differently, if so it will be stated in their Character note. All classes will have their Mana and Spell slot table with mana cost, thus pay attention.
 
-Mana will be calculated as a sum of levels and their respective Class levels. Parent Class and 
+Mana will be calculated as a sum of levels and their respective Class levels. Parent Class and its advancement will be counted as one class. 
+
+Magic Cost reduction like with sorcerer will be applied everywhere for simplicity, Wizards Arcane Recovery will be calculated based Wizards or Artificers Level
